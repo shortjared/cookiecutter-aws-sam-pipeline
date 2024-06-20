@@ -4,8 +4,6 @@
     and copy only what we are interested in.
 """
 
-from __future__ import print_function
-
 import os
 import shutil
 
